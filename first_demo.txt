@@ -1,3 +1,7 @@
 
+<<<<<<< HEAD
 add 2
 add a new branch
+=======
+add 2222
+>>>>>>> origin/master
